@@ -1,0 +1,22 @@
+{
+	"name": "basic-frontend-starter",
+	"version": "1.0.0",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"author": "Jakub Lenart",
+	"devDependencies": {
+		"babel-preset-es2015": "^6.14.0",
+		"gulp": "^3.9.1",
+		"gulp-autoprefixer": "^3.1.1",
+		"gulp-babel": "^6.1.2",
+		"gulp-clean-css": "^2.0.12",
+		"gulp-concat": "^2.6.0",
+		"gulp-image": "^2.7.6",
+		"gulp-pug": "^3.2.0",
+		"gulp-sass": "^2.3.2",
+		"gulp-sass-lint": "^1.3.2",
+		"gulp-util": "^3.0.8",
+		"gulp-webserver": "^0.9.1"
+	}
+}

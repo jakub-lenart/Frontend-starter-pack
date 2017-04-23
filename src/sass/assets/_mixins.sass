@@ -1,0 +1,9 @@
+=font-px-to-rem($font-size, $line-height)
+  font-size: $font-size / $base-font-size + rem
+  line-height: $line-height / $base-font-size + rem
+
+=cf
+  &::after
+    display: block
+    content: ''
+    clear: both
